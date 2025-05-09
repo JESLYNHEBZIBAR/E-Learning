@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61f2c2f3.css",
+    "main.js": "/static/js/main.2dfec63a.js",
+    "static/media/carousel_1.png": "/static/media/carousel_1.c517f2fd7a5ee89a48dc.png",
+    "static/media/credit-card.png": "/static/media/credit-card.3715cbf783fc15546171.png",
+    "static/media/revenue.png": "/static/media/revenue.e4025c478a678b92710a.png",
+    "static/media/active_course.png": "/static/media/active_course.818444ef738bd5e5f8b5.png",
+    "static/media/deleted_course.png": "/static/media/deleted_course.be5f032215d066bad9e1.png",
+    "static/media/purchases.png": "/static/media/purchases.8206541df08d396ca67f.png",
+    "static/media/e_logo.png": "/static/media/e_logo.433f3a23da0204b33a45.png",
+    "static/media/timing_logo.png": "/static/media/timing_logo.d5c74aa0f7637e62b02f.png",
+    "static/media/dollor_logo.png": "/static/media/dollor_logo.83236b113bd9d74ffc79.png",
+    "index.html": "/index.html",
+    "main.61f2c2f3.css.map": "/static/css/main.61f2c2f3.css.map",
+    "main.2dfec63a.js.map": "/static/js/main.2dfec63a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f2c2f3.css",
+    "static/js/main.2dfec63a.js"
+  ]
+}
